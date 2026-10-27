@@ -67,7 +67,7 @@ requirements:
       then: ilamb ==2.7.2
     - if: linux
       then:
-        - e3sm-tools ==3.0.2
+        - e3sm-tools ==3.1.0
         - squadgen ==1.2.2
         - zstash ==1.6.1rc1
 
